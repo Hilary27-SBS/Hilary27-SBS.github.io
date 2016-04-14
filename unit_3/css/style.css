@@ -1,5 +1,6 @@
 body {
 background-image:url("/unit_3/images/hero.jpg");
+background:fixed;
 }
 h1, p {
     color: white;
