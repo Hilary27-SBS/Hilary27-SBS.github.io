@@ -2,8 +2,10 @@ body {
 background-image:url("/unit_3/images/hero.jpg");
 background-size: cover;
 }
-h1, p {
+h1, {
     color: white;
     font-family:Helvetica,Arial,Sans-serif;
+    font-size: 1.5em;
 }
 
+p, {color:white;}
