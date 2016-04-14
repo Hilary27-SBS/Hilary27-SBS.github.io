@@ -1,6 +1,6 @@
 body {
 background-image:url("/unit_3/images/hero.jpg");
-background-position:"fixed";
+background-size:cover;
 }
 h1, p {
     color: white;
