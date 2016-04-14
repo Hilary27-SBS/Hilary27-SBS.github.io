@@ -1,6 +1,7 @@
 body {
 background-image:url("/unit_3/images/hero.jpg");
 background-size: cover;
+font-size:16px;
 }
 h1 {
     color: white;
