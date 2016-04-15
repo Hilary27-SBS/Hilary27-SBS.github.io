@@ -1,7 +1,7 @@
 body {
 background-image:url("/unit_3/images/hero.jpg");
 background-size: cover;
-font-family: garamond, serif; 
+font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
 }
 h1 {
     color: white;
