@@ -10,12 +10,20 @@ h1 {
     text-align:center;
 }
 
-p {color:0000;
-font-size: 24px;
-text-align:center;
+#p01 {color:0000;
+font-size: 300%;
+text-align:center;}
 
+#p02 {color:0000;
+font-size:24px;
+text-align:center;}
+
+
+
+#p03 {color:0000;
+	font-size:24px;
+	text-align:center;
 a: link {color:black;}
-
 a: hover {colour:gold;}
 
 }
