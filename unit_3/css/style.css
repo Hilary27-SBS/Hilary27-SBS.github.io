@@ -1,9 +1,9 @@
 
 
 body {
-background-image:url("/unit_3/images/hero.jpg");
+background: url("/unit_3/images/hero.jpg")no repeat, center, center-fixed;
 background-size: cover;
-font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
+
 }
 h1 {
     color: 0000;
