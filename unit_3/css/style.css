@@ -13,13 +13,10 @@ h1 {
 }
 
 .p01 {color:0000;
+font-family: 'Lora', serif;
 font-size: 300%;
-text-align:center;}
-
-.p02 {font-family: 'Lora', serif;
 font-weight: 400;
 color:0000;
-font-size:24px;
 text-align:center;
 margin:30px;}
 
