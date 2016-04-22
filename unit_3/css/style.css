@@ -5,6 +5,7 @@ background-image:url("/unit_3/images/hero.jpg");
 background-size: cover;
 
 }
+
 h1 {
     color: 0000;
     font-family:Helvetica,Arial,Sans-serif;
@@ -12,7 +13,7 @@ h1 {
     text-align:center;
 }
 
-.p01 {color:0000;
+p .p01 {color:0000;
 font-family: 'Lora', serif;
 font-size: 300%;
 font-weight: 400;
