@@ -4,6 +4,7 @@ body {
 background-image:url("/unit_3/images/hero.jpg");
 background-size: cover;
 background-repeat: no-repeat;
+font-family: 'Lora, serif';
 
 }
 
@@ -26,7 +27,7 @@ margin:30px;}
 
 
 
-.p03 {color:0000;
+#p02 {color:0000;
 	font-size:24px;
 	text-align:center;
 }
