@@ -1,7 +1,7 @@
 
 
 body {
-background: url("/unit_3/images/hero.jpg")no repeat, center, center-fixed;
+background-image: url("/unit_3/images/hero.jpg");
 background-size: cover;
 
 }
