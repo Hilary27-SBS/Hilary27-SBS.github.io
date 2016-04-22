@@ -12,11 +12,11 @@ h1 {
     text-align:center;
 }
 
-#p01 {color:0000;
+.p01 {color:0000;
 font-size: 300%;
 text-align:center;}
 
-#p02 {font-family: 'Lora', serif;
+.p02 {font-family: 'Lora', serif;
 font-weight: 400;
 color:0000;
 font-size:24px;
@@ -25,7 +25,7 @@ margin:30px;}
 
 
 
-#p03 {color:0000;
+.p03 {color:0000;
 	font-size:24px;
 	text-align:center;
 a: link {color:black;}
