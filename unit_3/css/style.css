@@ -28,8 +28,11 @@ margin:30px,30px,30px,50px;}
 
 #p02 {color:0000;
 	font-size:24px;
+	text-align:center;}
+
+#p03 {color:0000;
+	font-size:24px;
 	text-align:center;
-}
 
 a:link {color:red;}
 a:hover {colour:black;}
