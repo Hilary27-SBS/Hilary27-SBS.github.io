@@ -1,0 +1,36 @@
+<link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+
+body {
+background-image:url("/unit_3/images/hero.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+font-family: 'Lora, serif';
+
+}
+
+h1 {
+    color: 0000;
+    font-family:Helvetica,Arial,Sans-serif;
+    font-size: 800%;
+    text-align:center;
+}
+
+
+#p01 {color:0000;
+font-size: 300%;
+text-align:center;}
+
+#p02 {color:0000;
+font-family: 'Lora', serif;
+font-size:24px;
+text-align:center;}
+
+
+#p03 {color:0000;
+	font-family: 'Lora', serif;
+	font-size:24px;
+	text-align:center;
+}
+
+a: link {color:black;}
+a: hover {colour:gold;
