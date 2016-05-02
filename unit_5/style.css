@@ -1,20 +1,79 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
 
-body {
-	background-image:url("images/hero.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	text-align:center;
-}
-h1 {
-	color: #000;
-	font-family:Helvetica,Arial,Sans-serif;
-	font-size: 800%;
-	text-align:center;
-}
 a: link {
 	color:black;
 }
 a: hover {
 	color:gold;
 }
+
+article .class="print" {
+	background-color: #e8c66a
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article .class="marketing" {
+	background-color: #e8c66a
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article .class="digital" {
+	background-color: #e8c66a
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article .class="illustration" {
+	background-color: #e8c66a
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article .class="misc" {
+	background-color: #e8c66a
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article .class="about" {
+	background-color: #e8c66a
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article .class="case study" {
+	background-color: #e8c66a
+	border: 1px black solid;
+	padding: 20px;
+}
+
+body {
+	background-image:url("images/hero.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align:center;
+}
+
+footer {
+	background-color: #ffe2b8
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	color: #000;
+	font-family:Helvetica,Arial,Sans-serif;
+	font-size: 800%;
+	text-align:center;
+}
+
+header {
+	background-color: #ffed74;
+	border: 1px black solid;
+	padding: 20px; 
+}
+
+
+
