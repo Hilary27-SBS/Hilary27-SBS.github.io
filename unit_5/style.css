@@ -1,54 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
-
-a: link {
-	color:black;
-}
-a: hover {
-	color:gold;
-}
-
-article .class="print" {
-	background-color: #e8c66a
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article .class="marketing" {
-	background-color: #e8c66a
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article .class="digital" {
-	background-color: #e8c66a
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article .class="illustration" {
-	background-color: #e8c66a
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article .class="misc" {
-	background-color: #e8c66a
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article .class="about" {
-	background-color: #e8c66a
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article .class="case study" {
-	background-color: #e8c66a
-	border: 1px black solid;
-	padding: 20px;
-}
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	background-image:url("images/hero.jpg");
 	background-size: cover;
@@ -68,13 +19,6 @@ footer {
 	padding: 20px;
 }
 
-h1 {
-	color: #000;
-	font-family:Helvetica,Arial,Sans-serif;
-	font-size: 800%;
-	text-align:center;
-}
-
 header {
 	background-color: #ffed74;
 	border: 1px black solid;
@@ -86,5 +30,15 @@ nav {
 	border: 1px black solid;
 	padding: 20px;
 }
-
-
+a:link {
+	color:black;
+}
+a:hover {
+	color:gold;
+}
+h1 {
+	color: #000;
+	font-family:Helvetica,Arial,Sans-serif;
+	font-size: 800%;
+	text-align:center;
+}
