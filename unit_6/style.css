@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	background-image:url("images/hero.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align:center;
+}
+
+div {
+	background-color: #ff6;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #ffe2b8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+header {
+	background-color: #ffed74;
+	border: 1px black solid;
+	padding: 20px; 
+}
+
+nav {
+	background-color: #e8c66a;
+	border: 1px black solid;
+	padding: 20px;
+}
+a:link {
+	color:black;
+}
+a:hover {
+	color:gold;
+}
+h1 {
+	color: #000;
+	font-family:Helvetica,Arial,Sans-serif;
+	font-size: 800%;
+	text-align:center;
+}
