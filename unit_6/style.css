@@ -54,7 +54,7 @@ h1 {
     border: 1px black solid;
     padding: 20px;
     float:left;
-    width:30%;
+    width:62%;
 }
 
 #right {
@@ -62,7 +62,7 @@ h1 {
     border: 1px black solid;
     padding: 20px;
     float:right;
-    width:50%;
+    width:30%;
 }
 
 .clearfix:after {
