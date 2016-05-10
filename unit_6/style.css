@@ -1,15 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	background-image:url("images/hero.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	text-align:center;
+	color:;
+	font-size:;
+	font-family:;
+	line-height:1.2;
+
 }
 
 div {
-	background-color: #ff6;
-	border: 1px black solid;
+	/* background-color: #ff6; */
+	/* border: 1px black solid; */
 	padding: 20px;
 }
 
@@ -37,16 +38,17 @@ a:hover {
 	color:gold;
 }
 h1 {
-	color: #000;
 	font-family:Helvetica,Arial,Sans-serif;
-	font-size: 800%;
+	font-size: 8em;
 	text-align:center;
 }
 
-#two_column {
+#work {
     background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
+    /* width: 1200px; */
+    /* margin: auto; */
 }
 
 #left {
