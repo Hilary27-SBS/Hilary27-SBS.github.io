@@ -15,19 +15,19 @@ div {
 }
 
 footer {
-	background-color: #ffe2b8;
+	/*background-color: #ffe2b8; */
 	border: 1px black solid;
 	padding: 20px;
 }
 
 header {
-	background-color: #ffed74;
+	/*background-color: #ffed74;*/
 	border: 1px black solid;
 	padding: 20px; 
 }
 
 nav {
-	background-color: #e8c66a;
+	/*background-color: #e8c66a;*/
 	border: 1px black solid;
 	padding: 20px;
 }
