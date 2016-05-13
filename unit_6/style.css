@@ -43,6 +43,10 @@ h1 {
 	text-align:center;
 }
 
+.p-intro {
+	margin:10px 0 10px 0;
+}
+
 #work {
     /*background-color: #FFB7CF; */
     border: 1px black solid;
