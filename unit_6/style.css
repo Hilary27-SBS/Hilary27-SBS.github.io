@@ -47,6 +47,19 @@ p.intro {
 	margin:50px 0 50px 0;
 }
 
+.work{
+	margin:20px;
+	padding:20px;
+	opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
 #work {
     /*background-color: #FFB7CF; */
     border: 1px black solid;
