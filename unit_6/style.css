@@ -1,10 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	color:;
-	font-size:;
-	font-family:;
+	color:#000;
+	font-size:1em;
+	font-family:Helvetica,Arial,Sans-serif;
 	line-height:1.2;
+	text-align:center;
 
 }
 
@@ -38,8 +39,7 @@ a:hover {
 	color:gold;
 }
 h1 {
-	font-family:Helvetica,Arial,Sans-serif;
-	font-size: 2em;
+	font-size: 3em;
 	text-align:center;
 }
 
