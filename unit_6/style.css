@@ -30,14 +30,14 @@ header {
 
 nav {
 	/*background-color: #e8c66a;*/
-	border: 1px black solid;
+	/*border: 1px black solid;*/
 	padding: 20px;
 }
 a:link {
 	color:black;
 }
 a:hover {
-	color:gold;
+	color:#;
 }
 h1 {
 	font-size: 3em;
