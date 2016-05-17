@@ -100,6 +100,7 @@ p.intro {
 	background-color:rgba(0, 0, 0, 0.1);
 	float:left;
 	height:50%;
+	padding:20px;
 	width:48%;
 }
 
@@ -107,6 +108,7 @@ p.intro {
 	background-color:rgba(0, 0, 0, 0.1);
 	float:right;
 	height:50%;
+	padding:20px;
 	width:48%;
 }
 
