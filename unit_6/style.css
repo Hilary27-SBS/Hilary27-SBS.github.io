@@ -20,7 +20,7 @@ footer {
 	/*border: 1px black solid; */
 	margin-top: 20%;
 	margin-bottom: 10%;
-	padding: 50px;
+	padding: 5em;
 }
 
 header {
@@ -120,5 +120,8 @@ p.intro {
 	width:48%;
 }
 
+.case-study {
+	background-image:;
+}
 
 
