@@ -130,6 +130,9 @@ p.intro {
 
 .about {
 	background-color:#ffed74;
+	float:left;
+	margin:1%;
+	width:48%;
 }
 
 
