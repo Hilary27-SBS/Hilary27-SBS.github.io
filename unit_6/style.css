@@ -121,7 +121,7 @@ p.intro {
 
 .case-study {
 	background-image: url("images/laptop-for-designers.jpg");
-	background:cover;
+	background-size:cover;
 	background-repeat: no-repeat;
 }
 
