@@ -123,6 +123,9 @@ p.intro {
 	background-image: url("images/laptop-for-designers.jpg");
 	background-size:cover;
 	background-repeat: no-repeat;
+	float:left;
+	margin:1%;
+	width:48%;
 }
 
 .about {
