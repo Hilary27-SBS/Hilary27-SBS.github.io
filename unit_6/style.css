@@ -65,7 +65,7 @@ p.intro {
 	margin:20px;
 	padding:20px;
 	float:left;
-	filter: hue-rotate(240deg) saturate(3.3);
+	-webkit-filter: hue-rotate(240deg) saturate(3.3);
 	width:30%;
 
 }
