@@ -62,10 +62,10 @@ p.intro {
 }
 
 .work{
-	background:linear-gradient(rgba(255, 0, 0, 0.45), rgba(255, 0, 0, 0.45));
 	margin:20px;
 	padding:20px;
 	float:left;
+	filter: hue-rotate(240deg) saturate(3.3);
 	width:30%;
 
 }
@@ -78,6 +78,8 @@ p.intro {
     /* width: 1200px; */
     /* margin: auto; */
 }
+
+
 
 #left {
     /*background-color: #E582A2; */
