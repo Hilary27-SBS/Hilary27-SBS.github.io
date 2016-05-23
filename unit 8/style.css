@@ -1,0 +1,143 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+	color:#000;
+	font-size:1em;
+	font-family:Helvetica,Arial,Sans-serif;
+	line-height:1.2;
+	text-align:center;
+
+}
+
+div {
+	/* background-color: #ff6; */
+	/* border: 1px black solid; */
+	padding: 20px;
+}
+
+footer {
+	/*background-color: #ffe2b8; */
+	/*border: 1px black solid; */
+	margin-top: 20%;
+	margin-bottom: 10%;
+	padding: 5em;
+}
+
+header {
+	/*background-color: #ffed74;*/
+	/*border: 1px black solid;*/
+	padding: 20px; 
+}
+
+nav {
+	/*background-color: #e8c66a;*/
+	/*border: 1px black solid;*/
+	padding: 20px;
+}
+a:link {
+	color:black;
+}
+a:hover {
+	color:#;
+}
+h1 {
+	font-size: 3em;
+	text-align:center;
+}
+
+h3 {
+	font-family:Garamond-italic,serif;
+	font-size:1em;
+	margin:20px;
+	padding:20px;
+
+}
+
+h4 {
+
+}
+
+p.intro {
+	margin:50px 0 50px 0;
+}
+
+.work{
+	margin:20px;
+	padding:20px;
+	float:left;
+	width:30%;
+
+}
+
+
+#work {
+    /*background-color: #FFB7CF; */
+    /*border: 1px black solid;*/
+    padding: 20px;
+    /* width: 1200px; */
+    /* margin: auto; */
+}
+
+#left {
+    /*background-color: #E582A2; */
+    border: 1px black solid;
+    padding: 20px;
+    float:left;
+    width:62%;
+}
+
+#right {
+    /*background-color: #E55B88; */
+    border: 1px black solid;
+    padding: 20px;
+    float:right;
+    width:30%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.box-left{
+	background-color:rgba(0, 0, 0, 0.1);
+	float:left;
+	height:50%;
+	padding:20px;
+	width:48%;
+}
+
+.box-right{
+	background-color:rgba(0, 0, 0, 0.1);
+	float:right;
+	height:50%;
+	padding:20px;
+	width:48%;
+}
+
+.case-study {
+	background-image: url("images/laptop-for-designers.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-color:#000;
+	opacity:0.98; 
+	padding:30px;
+	color:#fff;
+	float:left;
+	margin:1%;
+	width:48%;
+}
+
+.about {
+	background-color:#ffed74;
+	float:left;
+	margin:1%;
+	padding:60px;
+	width:48%;
+}
+
+
