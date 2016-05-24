@@ -30,9 +30,10 @@ header {
 }
 
 nav {
-	/*background-color: #e8c66a;*/
+	background-color: #adf7e7;
+	font-style:oblique;
 	/*border: 1px black solid;*/
-	padding: 20px;
+	padding: 20%;
 }
 a:link {
 	color:black;
