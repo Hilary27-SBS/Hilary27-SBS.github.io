@@ -34,7 +34,8 @@ nav {
 	font-style:oblique;
 	height:3%;
 	/*border: 1px black solid;*/
-	padding: 50px;
+	/*padding: 50px;*/
+	word-spacing: 10%;
 }
 a:link {
 	color:black;
