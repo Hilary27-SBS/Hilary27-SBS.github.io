@@ -33,6 +33,7 @@ nav {
 	background-color: #adf7e7;
 	/*border: 1px black solid;*/
 	padding: 20px;
+	text-decoration: none;
 }
 a:link {
 	color:black;
