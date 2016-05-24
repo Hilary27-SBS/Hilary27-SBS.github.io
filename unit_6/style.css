@@ -33,17 +33,17 @@ nav {
 	background-color: #adf7e7;
 	/*border: 1px black solid;*/
 	padding: 20px;
-	text-decoration: none;
 }
 a:link {
 	color:black;
 }
+
 a:hover {
 	color:#fff;
 }
 
 a:visited {
-	color: #cdccf5;
+	color: #000;
 }
 
 h1 {
@@ -71,6 +71,18 @@ p.intro {
 	color:#550355;
     padding: 8px;
     text-align: center;
+}
+
+.navbar a:link {
+	color:#660066;
+}
+
+.navbar a:hover {
+	color:#fff;
+}
+
+.navbar a:visited {
+	color:#dc7edc;
 }
 
 .work{
