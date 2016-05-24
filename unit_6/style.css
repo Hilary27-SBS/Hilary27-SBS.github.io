@@ -38,8 +38,13 @@ a:link {
 	color:black;
 }
 a:hover {
-	color:#;
+	color:#fff;
 }
+
+a:visited {
+	color: #cdccf5;
+}
+
 h1 {
 	font-size: 3em;
 	text-align:center;
