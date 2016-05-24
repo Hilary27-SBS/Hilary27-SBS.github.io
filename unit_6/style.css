@@ -1,12 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lora);
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	color:#000;
+	color: #222;
 	font-size:1em;
 	font-family:Helvetica,Arial,Sans-serif;
 	line-height:1.2;
 	text-align:center;
-
 }
 
 div {
@@ -35,7 +34,6 @@ nav {
 	padding: 20px;
 }
 a:link {
-	color:black;
 }
 
 a:hover {
@@ -56,7 +54,7 @@ h3 {
 	font-size:1em;
 	margin:20px;
 	padding:20px;
-
+	/* background: #fff; */
 }
 
 h4 {
@@ -69,39 +67,44 @@ p.intro {
 
 .navbar {
 	color:#550355;
-    padding: 8px;
-    text-align: center;
-    text-decoration:none;
+	padding: 8px;
+	text-align: center;
+	text-decoration:none;
+	display: inline-block;
 }
 
 .navbar a:link {
 	color:#660066;
 }
 
-.navbar a:hover {
+.navbar:hover {
 	color:#fff;
 }
 
-.navbar a:visited {
+.navbar:visited {
 	color:#dc7edc;
 }
 
 .work{
-	background-color:rgba(255, 255, 255, 0.5);
-	margin:20px;
-	padding:20px;
+	background-color: rgb(184, 0, 0);
+	/* margin:20px; */
+	/* padding:20px; */
 	float:left;
-	width:30%;
-
+	width: 31.33%;
+	margin: 1%;
+	line-height: 0;
 }
-
+.work img {
+	width:100%;
+	opacity:.5;
+}
 
 #work {
     /*background-color: #FFB7CF; */
     /*border: 1px black solid;*/
     padding: 20px;
-    /* width: 1200px; */
-    /* margin: auto; */
+    width: 1200px;
+    margin: auto;
 }
 
 
@@ -152,14 +155,15 @@ p.intro {
 	background-size:cover;
 	background-repeat: no-repeat;
 	background-color:#000;
-	opacity:0.98; 
-	padding:30px;
 	color:#fff;
 	float:left;
 	margin:1%;
 	width:48%;
 }
-
+.case-study div {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 3em;
+}
 .about {
 	background-color:#ffed74;
 	float:left;
