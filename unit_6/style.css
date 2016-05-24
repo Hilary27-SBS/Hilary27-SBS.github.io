@@ -71,6 +71,7 @@ p.intro {
 	color:#550355;
     padding: 8px;
     text-align: center;
+    text-decoration:none;
 }
 
 .navbar a:link {
