@@ -90,8 +90,8 @@ p.intro {
 	/* margin:20px; */
 	/* padding:20px; */
 	float:left;
-	width: 28%;
-	margin: 4%;
+	width: 33%;
+	margin: 0%;
 	line-height: 0;
 }
 .work img {
@@ -108,11 +108,22 @@ p.intro {
 }
 
 #about{
-
+	background-color:#ffed74;
+	float:left;
+	margin:1%;
+	padding:60px;
+	width:48%;
 }
 
 #case-study{
-
+	background-image: url("images/laptop-for-designers.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-color:#000;
+	color:#fff;
+	float:left;
+	margin:1%;
+	width:48%;
 }
 
 #contact{
@@ -160,26 +171,13 @@ p.intro {
 	width:48%;
 }*/
 
-.case-study {
-	background-image: url("images/laptop-for-designers.jpg");
-	background-size:cover;
-	background-repeat: no-repeat;
-	background-color:#000;
-	color:#fff;
-	float:left;
-	margin:1%;
-	width:48%;
-}
+
 .case-study div {
     background: rgba(0, 0, 0, 0.5);
     padding: 3em;
 }
 .about {
-	background-color:#ffed74;
-	float:left;
-	margin:1%;
-	padding:60px;
-	width:48%;
+
 }
 
 
