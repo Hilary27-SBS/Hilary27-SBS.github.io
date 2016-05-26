@@ -117,7 +117,7 @@ p.intro {
 }
 
 #about{
-	background-color:#ffed74;
+	background-color:#adf7e7;
 	float:left;
 	margin:1%;
 	margin-bottom:5%;
@@ -184,7 +184,7 @@ p.intro {
 
 
 .case-study div {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.9);
     padding: 3em;
 }
 
