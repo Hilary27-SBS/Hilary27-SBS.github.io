@@ -22,6 +22,10 @@ footer {
 	padding: 5em;
 }
 
+footer a {
+color:#fff;
+}
+
 header {
 	/*background-color: #ffed74;*/
 	/*border: 1px black solid;*/
@@ -176,8 +180,6 @@ p.intro {
     background: rgba(0, 0, 0, 0.8);
     padding: 3em;
 }
-.about {
 
-}
 
 
