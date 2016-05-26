@@ -117,7 +117,8 @@ p.intro {
     margin: auto;
 }
 
-#about{
+#about {
+	color:#fff;
 	background-color:#adf7e7;
 	background-image: url("images/laptop-for-designers.jpg");
 	float:left;
@@ -127,7 +128,7 @@ p.intro {
 	width:48%;
 }
 
-#case-study{
+#case-study {
 	background-image: url("images/laptop-for-designers.jpg");
 	background-size:cover;
 	background-repeat: no-repeat;
