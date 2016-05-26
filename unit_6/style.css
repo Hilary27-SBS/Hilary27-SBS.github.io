@@ -20,7 +20,7 @@ footer {
 	/*border: 1px black solid; */
 	margin-top: 5%;
 	margin-bottom: 5%;
-	padding: 2em;
+	padding: 5em;
 }
 
 footer a {
@@ -115,6 +115,7 @@ p.intro {
 
 #about{
 	background-color:#adf7e7;
+	background-image: url("images/laptop-for-designers.jpg")
 	float:left;
 	margin:1%;
 	margin-bottom:5%;
