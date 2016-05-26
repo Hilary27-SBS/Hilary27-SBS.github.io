@@ -107,6 +107,7 @@ p.intro {
 	opacity:.5;
 }
 
+
 #work {
     /*background-color: #FFB7CF; */
     /*border: 1px black solid;*/
@@ -117,7 +118,7 @@ p.intro {
 
 #about{
 	background-color:#adf7e7;
-	background-image: url("images/laptop-for-designers.jpg")
+	background-image: url("images/laptop-for-designers.jpg");
 	float:left;
 	margin:1%;
 	margin-bottom:5%;
