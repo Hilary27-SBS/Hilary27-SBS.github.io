@@ -32,7 +32,7 @@ color:#adf7e7;
 }
 
 header {
-	/*background-color: #ffed74;*/
+	background-color: #adf7e7;
 	/*border: 1px black solid;*/
 	padding: 20px; 
 }
@@ -95,8 +95,8 @@ p.intro {
 	/* margin:20px; */
 	/* padding:20px; */
 	float:left;
-	width: 33.3%;
-	margin: 3%;
+	width: 30.3%;
+	margin: 1%;
 	line-height: 0;
 }
 .work img {
