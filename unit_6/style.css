@@ -18,9 +18,9 @@ footer {
 	color:#fff;
 	background-color: #f0a9f6;
 	/*border: 1px black solid; */
-	margin-top: 20%;
-	margin-bottom: 10%;
-	padding: 5em;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	padding: 2em;
 }
 
 footer a {
@@ -120,6 +120,7 @@ p.intro {
 	background-color:#ffed74;
 	float:left;
 	margin:1%;
+	margin-bottom:5%;
 	padding:60px;
 	width:48%;
 }
@@ -132,6 +133,7 @@ p.intro {
 	color:#fff;
 	float:left;
 	margin:1%;
+	margin-bottom:5%;
 	width:48%;
 }
 
