@@ -42,16 +42,8 @@ nav {
 	/*border: 1px black solid;*/
 	padding: 20px;
 }
-a:link {
-}
 
-a:hover {
-	color:#f0a9f6;
-}
 
-a:visited {
-	color: #000;
-}
 
 h1 {
 	font-size: 3em;
@@ -68,6 +60,10 @@ h3 {
 
 h4 {
 
+}
+
+a {
+	text-decoration: none;
 }
 
 p.intro {
