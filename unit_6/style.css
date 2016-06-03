@@ -60,8 +60,11 @@ h3 {
 	/* background: #fff; */
 }
 
-h4 {
-
+h4 { 
+	color:#222;
+	font-family: Garamond, Baskerville, serif;
+	font-style:italic;
+	font-size:1.2em;
 }
 
 a {
