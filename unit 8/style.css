@@ -12,7 +12,7 @@ body {
 div {
 	/* background-color: #ff6; */
 	/* border: 1px black solid; */
-	padding: 20px;
+	padding: 20em;
 }
 
 footer {
@@ -26,13 +26,13 @@ footer {
 header {
 	/*background-color: #ffed74;*/
 	/*border: 1px black solid;*/
-	padding: 20px; 
+	padding: 20%; 
 }
 
 nav {
 	/*background-color: #e8c66a;*/
 	/*border: 1px black solid;*/
-	padding: 20px;
+	padding: 20%;
 }
 a:link {
 	color:black;
@@ -48,8 +48,8 @@ h1 {
 h3 {
 	font-family:Garamond-italic,serif;
 	font-size:1em;
-	margin:20px;
-	padding:20px;
+	margin:20%;
+	padding:20%;
 
 }
 
@@ -58,12 +58,12 @@ h4 {
 }
 
 p.intro {
-	margin:50px 0 50px 0;
+	margin:50% 0 50% 0;
 }
 
 .work{
-	margin:20px;
-	padding:20px;
+	margin:20%;
+	padding:20%;
 	float:left;
 	width:30%;
 
@@ -73,7 +73,7 @@ p.intro {
 #work {
     /*background-color: #FFB7CF; */
     /*border: 1px black solid;*/
-    padding: 20px;
+    padding: 20%;
     /* width: 1200px; */
     /* margin: auto; */
 }
@@ -81,15 +81,15 @@ p.intro {
 #left {
     /*background-color: #E582A2; */
     border: 1px black solid;
-    padding: 20px;
+    padding: 20%;
     float:left;
     width:62%;
 }
 
 #right {
     /*background-color: #E55B88; */
-    border: 1px black solid;
-    padding: 20px;
+    border: 1em black solid;
+    padding: 20%;
     float:right;
     width:30%;
 }
@@ -107,7 +107,7 @@ p.intro {
 	background-color:rgba(0, 0, 0, 0.1);
 	float:left;
 	height:50%;
-	padding:20px;
+	padding:20%;
 	width:48%;
 }
 
@@ -115,7 +115,7 @@ p.intro {
 	background-color:rgba(0, 0, 0, 0.1);
 	float:right;
 	height:50%;
-	padding:20px;
+	padding:20%;
 	width:48%;
 }
 
@@ -125,7 +125,7 @@ p.intro {
 	background-repeat: no-repeat;
 	background-color:#000;
 	opacity:0.98; 
-	padding:30px;
+	padding:30%;
 	color:#fff;
 	float:left;
 	margin:1%;
@@ -136,7 +136,7 @@ p.intro {
 	background-color:#ffed74;
 	float:left;
 	margin:1%;
-	padding:60px;
+	padding:60%;
 	width:48%;
 }
 
