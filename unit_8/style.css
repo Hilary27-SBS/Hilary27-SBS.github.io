@@ -149,9 +149,8 @@ p.intro {
 
 @media only screen and (min-width: 768px) {
 	#about {
-		background-image:cover;
+		background-image: cover;
 		background-repeat: no-repeat;
-		float:left;
 		width:100%;
 	}
 }
