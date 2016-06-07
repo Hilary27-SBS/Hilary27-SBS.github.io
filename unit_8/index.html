@@ -2,18 +2,17 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Hilary Want - Graphic Designer</title>
 </head>
 <body>
     
     <header>
-        <img src=".svg" alt="">
+        <img src="images/HLogo.svg" width="100" height="100" alt="H Logo">
         <nav>
-            <a href="#My-work">WORK</a>/
-            <a href="#about">ABOUT</a>/
-            <a href="#case-study">CASE STUDY</a>/
-            <a href="#contact">GET IN TOUCH</a> 
+            <a class="navbar" href="#work">WORK</a>
+            <a class="navbar" href="#about">ABOUT</a>
+            <a class="navbar" href="#case-study">CASE STUDY</a>
+            <a class="navbar" href="#contact">GET IN TOUCH</a> 
         </nav>
     </header>
     
@@ -21,6 +20,7 @@
         <section id="splash">
             <div>
                 <h1>Hilary Want</h1>
+                <h4>Graphic and Web Designer</h4>
                 <!--<blockquote>
                     <p>Creativity takes courage</p>
                     <cite>Henri Matisse</cite>
@@ -31,7 +31,7 @@
         </section>
         
         <section id="work" class="clearfix">
-            <h2><a name="My Work">My work</a></h2>
+            <h2><a href="#work">My work</a></h2>
             
                 <section class="work">
                     <h3>Print</h3>
@@ -39,7 +39,7 @@
                 </section>
 
                 <section class="work">
-                    <h3>Marketing: POS, Advertising</h3>
+                    <h3>Marketing</h3>
                     <img src="images/marketing.jpg" alt="Rugby Sevens Leaflets">
                 </section> 
 
@@ -66,23 +66,27 @@
         
         </section>
         
-                <section class="about">
-                    <h3>About Hilary</h3>
+                <section id="about">
+                    <div>
+                    <h3><a href="#about">About Hilary</h3></a></h3>
                     <p>For more detail on Hilary her skills and experience, click here... </p>
+                    <div>
                 </section>
 
         
-            <section class="case-study">    
-                <h3>Case Studies</h3>
+            <section id="case-study">
+                <div="case-study">    
+                <h3><a href="#case-study">Case Studies</a></h3>
                 <h4>Sports Marketing</h4>
                 <p>Working with a major sporting club and annual Sevens event, find out more about the project here...</p>
+                </div>
             </section>
 
     
     </main>
     
-    <footer>
-        <h2>Get in Touch</h3>
+    <footer id="contact">
+        <h2><a href="#contact">Get in Touch</a></h3>
         <p>For more details contact me <a href="mailto:hilsbils101@hotmail.co.uk">hilsbils101@hotmail.co.uk</a></p>
     </footer>
 
