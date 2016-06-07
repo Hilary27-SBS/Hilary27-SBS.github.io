@@ -133,6 +133,7 @@ p.intro {
 	float:left;
 	margin:1%;
 	margin-bottom:5%;
+	overflow: hidden;
 	padding:60px;
 	width:48%;
 }
@@ -144,6 +145,7 @@ p.intro {
 	float:left;
 	margin:1%;
 	margin-bottom:5%;
+	overflow: hidden;
 	padding:60px;
 	width:48%;
 }
