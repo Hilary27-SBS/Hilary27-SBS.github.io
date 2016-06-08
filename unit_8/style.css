@@ -11,7 +11,7 @@ body {
 div {
 	/* background-color: #ff6; */
 	/* border: 1px black solid; */
-	padding: 20px;
+	padding: 1.25em;
 }
 
 footer {
@@ -34,13 +34,13 @@ color:#adf7e7;
 header {
 	background-color: #adf7e7;
 	/*border: 1px black solid;*/
-	padding: 20px; 
+	padding: 1.25em; 
 }
 
 nav {
 	background-color: #adf7e7;
 	/*border: 1px black solid;*/
-	padding: 20px;
+	padding: 1.25em;
 }
 
 
@@ -55,8 +55,8 @@ h3 {
 	font-family:Garamond, Baskerville, serif;
 	font-size:1.5em;
 	font-style:italic;
-	margin:20px;
-	padding:20px;
+	margin:1.25em;
+	padding:1.25em;
 	/* background: #fff; */
 }
 
@@ -65,8 +65,8 @@ h4 {
 	font-family: Garamond, Baskerville, serif;
 	font-style:italic;
 	font-size:1.2em;
-	margin:5px;
-	padding:5px;
+	margin:0.3125em;
+	padding:0.3125em;
 }
 
 a {
@@ -75,12 +75,12 @@ a {
 }
 
 p.intro {
-	margin:50px 0 50px 0;
+	margin:3.125em 0 3.125em 0;
 }
 
 .navbar {
 	color:#550355;
-	padding: 8px;
+	padding: 2em;
 	text-align: center;
 	text-decoration:none;
 	display: inline-block;
@@ -117,8 +117,8 @@ p.intro {
 #work {
     /*background-color: #FFB7CF; */
     /*border: 1px black solid;*/
-    padding: 20px;
-    width: 1200px;
+    padding: 1.25em;
+    width: 75em;
     margin: auto;
 }
 
@@ -129,7 +129,7 @@ p.intro {
 	float:left;
 	margin:1%;
 	margin-bottom:5%;
-	padding:60px;
+	padding:3.75em;
 	width:48%;
 }
 
@@ -140,7 +140,7 @@ p.intro {
 	float:left;
 	margin:1%;
 	margin-bottom:5%;
-	padding:60px;
+	padding:3.75em;
 	width:48%;
 }
 
@@ -151,7 +151,7 @@ p.intro {
 #left {
     /*background-color: #E582A2; */
     border: 1px black solid;
-    padding: 20px;
+    padding: 1.25em;
     float:left;
     width:62%;
 }
@@ -159,7 +159,7 @@ p.intro {
 #right {
     /*background-color: #E55B88; */
     border: 1px black solid;
-    padding: 20px;
+    padding: 1.25em;
     float:right;
     width:30%;
 }
@@ -177,7 +177,7 @@ p.intro {
 	background-color:rgba(0, 0, 0, 0.1);
 	float:left;
 	height:50%;
-	padding:20px;
+	padding:1.25em;
 	width:48%;
 }
 
