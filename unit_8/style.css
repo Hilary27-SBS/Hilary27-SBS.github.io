@@ -213,6 +213,7 @@ p.intro {
 	.work{
 		display:inline-block;
 		float:left;
+		padding:0;
 		width: 30%;
 		margin: 2% 5% 2% 5%;
 		line-height: 0;
@@ -229,6 +230,7 @@ p.intro {
 		background-repeat: no-repeat;
 		margin-left: 10%;
 		margin-bottom: 10%;
+		padding:0;
 		width:98%;
 	}
 
@@ -236,6 +238,7 @@ p.intro {
 		background-repeat: no-repeat;
 		margin-left: 10%;
 		margin-bottom: 10%;
+		padding:0;
 		width:98%;
 	}
 
