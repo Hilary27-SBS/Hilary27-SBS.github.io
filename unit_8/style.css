@@ -205,6 +205,11 @@ p.intro {
 }
 
 @media screen and (max-width: 1105px) {
+	.clearfix:after {
+    visibility: hidden;
+    display: inline-block;
+	}
+
 	.work{
 		display:inline-block;
 		float:left;
