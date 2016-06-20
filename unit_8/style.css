@@ -242,6 +242,7 @@ p.intro {
 
 	footer {
 		clear: left;
+		position: relative;
 	}
 
 }
@@ -258,7 +259,7 @@ p.intro {
 		.work img {
 		width: 35%;
 		}
-		
+
 		.navbar {
 		padding: 2em;
 		text-align: center;
