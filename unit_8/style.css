@@ -50,6 +50,11 @@ h1 {
 	text-align:center;
 }
 
+h2 {
+	font-size:2em;
+	text-align:center;
+} 
+
 h3 {
 	color:#fff;
 	font-family:Garamond, Baskerville, serif;
@@ -235,6 +240,9 @@ p.intro {
 	    width:60%;
 	}
 
+	footer {
+		clear: left;
+	}
 
 }
 
@@ -249,7 +257,8 @@ p.intro {
 
 		.work img {
 		width: 35%;
-
+		}
+		
 		.navbar {
 		padding: 2em;
 		text-align: center;
