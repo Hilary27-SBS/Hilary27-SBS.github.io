@@ -202,27 +202,14 @@ p.intro {
 }
 
 @media screen and (max-width: 1105px) {
-.work{
-	display:inline-block;
-	float:left;
-	width: 44%;
-	margin: 3%;
-	line-height: 0;
-}
+	.work{
+		display:inline-block;
+		float:left;
+		width: 44%;
+		margin: 3%;
+		line-height: 0;
+	}
 
-.work img {
-	width:100%;
-	opacity:.5;
-}
-
-
-#work {
-    /*background-color: #FFB7CF; */
-    /*border: 1px black solid;*/
-    padding: 1.25em;
-    width: 75em;
-    margin: auto;
-}
 
 }
 
