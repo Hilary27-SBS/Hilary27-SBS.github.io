@@ -216,7 +216,14 @@ p.intro {
 }
 
 
-@media screen and (max-width: 985px) {
+@media screen and (max-width: 889px) {
+#about {
+	width:98%;
+}
+
+#case-study {
+	width:98%;
+}
 
 }
 
