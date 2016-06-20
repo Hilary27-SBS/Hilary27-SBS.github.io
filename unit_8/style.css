@@ -222,6 +222,7 @@ p.intro {
 }
 
 #case-study {
+	background-repeat: no-repeat;
 	width:98%;
 }
 
