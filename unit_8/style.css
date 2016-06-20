@@ -78,6 +78,12 @@ p.intro {
 	margin:3.125em 0 3.125em 0;
 }
 
+#splash p {
+	width: 30em;
+	margin: auto;
+	text-align:left;
+}
+
 .navbar {
 	color:#550355;
 	padding: 2em;
