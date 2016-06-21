@@ -60,8 +60,8 @@ h3 {
 	font-family:Garamond, Baskerville, serif;
 	font-size:1.5em;
 	font-style:italic;
-	margin:1.25em;
-	padding:1.25em;
+	margin-bottom: 1.25em;
+	/* padding:1.25em; */
 	/* background: #fff; */
 }
 
@@ -84,7 +84,7 @@ p.intro {
 }
 
 #splash p {
-	width: 30em;
+	max-width: 30em;
 	margin: auto;
 	text-align:left;
 }
@@ -113,7 +113,7 @@ p.intro {
     /*background-color: #FFB7CF; */
     /*border: 1px black solid;*/
     padding: 1.25em;
-    width: 75em;
+    max-width: 75em;
     margin: auto;
 }
 
@@ -126,6 +126,7 @@ p.intro {
 	width: 27.3%;
 	margin: 3%;
 	line-height: 0;
+	padding: 2em 0;
 }
 .work img {
 	width:100%;
@@ -136,10 +137,13 @@ p.intro {
 #about {
 	color:#fff;
 	background-image: url("images/laptop-for-designers.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
 	float:left;
 	margin:1%;
 	margin-bottom:5%;
 	padding:3.75em;
+	min-height: 24em;
 	width:48%;
 }
 
@@ -205,33 +209,23 @@ p.intro {
 }
 
 @media screen and (max-width: 1105px) {
-	.clearfix:after {
-    visibility: hidden;
-    display: inline-block;
-	}
-
 	.work{
-		display:inline-block;
-		float:left;
-		padding:0;
-		width: 30%;
+		width: 40%;
 		margin: 2% 5% 2% 5%;
-		line-height: 0;
 	}
-
 	.work img {
-	width:60%;
-
+		width:60%;
+	}
 }
 
 
 @media screen and (max-width: 889px) {
 	#about {
 		background-repeat: no-repeat;
-		margin-left: 10%;
-		margin-bottom: 10%;
+		margin: 0 auto 10%;
 		padding:0;
 		width:98%;
+		float: none;
 	}
 
 	#case-study {
@@ -249,7 +243,7 @@ p.intro {
 	}
 
 	footer {
-		clear: left;
+		clear: both;
 		position: relative;
 	}
 
@@ -257,21 +251,14 @@ p.intro {
 
 @media screen and (max-width: 714px) {
 		.work{
-		display:block;
-		float:left;
-		width: 40%;
-		margin: 0 20% 0 20%;
-		line-height: 0;
+			float:none;
+			width: 100%;
+			margin: 1% auto;
 		}
-
-		.work img {
-		width: 35%;
-		}
-
 		.navbar {
-		padding: 2em;
-		text-align: center;
-		display: inline-block;
+			padding: 2em;
+			text-align: center;
+			display: block;
 		}
 }
 
